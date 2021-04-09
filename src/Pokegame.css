@@ -1,0 +1,13 @@
+.Pokegame-player {
+    text-align: center;
+}
+
+.Pokegame-win {
+    color: green;
+    text-align: center;
+}
+
+.Pokegame-lose {
+    color: red;
+    text-align: center;
+}
